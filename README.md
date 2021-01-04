@@ -1,4 +1,4 @@
-# Zillow
+# Housing Dashboard
 Dashboard presenting Zillow housing data by ZIP Code, which was accessed from their [research data page](https://www.zillow.com/research/data/).
 
 ### Homeownership Cost Calculations:
